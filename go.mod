@@ -1,3 +1,4 @@
 module github.com/Ja7ad/golang-pipeline
 
-go 1.22
+go 1.16
+
